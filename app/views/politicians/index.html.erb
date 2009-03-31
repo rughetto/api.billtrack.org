@@ -1,0 +1,11 @@
+<h1>Politicians <%= merb_paginate @politicians %></h1>
+
+<ul>
+  <% for @politician in @politicians -%>
+    <li class="clearfix">
+      <%= partial :list_view %>
+    </li>
+  <% end -%>  
+</ul>
+
+<h1><%= merb_paginate @politicians %></h1>

@@ -1,0 +1,92 @@
+<bill session="111" type="h" number="1" updated="2009-01-31T12:02:03-05:00">
+	<status>
+	  <vote date="1233180660" datetime="2009-01-28T18:11:00-05:00" where="h" result="pass" how="roll" roll="46"/>
+	</status>
+
+	<introduced date="1232946000" datetime="2009-01-26"/>
+	<titles>
+		<title type="short" as="introduced">American Recovery and Reinvestment Act of 2009</title>
+		<title type="short" as="introduced">American Recovery and Reinvestment Tax Act of 2009</title>
+		<title type="short" as="introduced">Assistance for Unemployed Workers and Struggling Families Act</title>
+		<title type="short" as="introduced">Health Information Technology for Economic and Clinical Health Act</title>
+		<title type="short" as="introduced">Health Insurance Assistance for the Unemployed Act of 2009</title>
+		<title type="short" as="introduced">HITECH Act</title>
+		<title type="short" as="passed house">American Recovery and Reinvestment Act of 2009</title>
+		<title type="short" as="passed house">American Recovery and Reinvestment Tax Act of 2009</title>
+		<title type="short" as="passed house">Assistance for Unemployed Workers and Struggling Families Act</title>
+		<title type="short" as="passed house">Health Information Technology for Economic and Clinical Health Act</title>
+		<title type="short" as="passed house">Health Insurance Assistance for the Unemployed Act of 2009</title>
+		<title type="short" as="passed house">HITECH Act</title>
+		<title type="short" as="passed house">Whistleblower Protection Enhancement Act of 2009</title>
+		<title type="official" as="introduced">Making supplemental appropriations for job preservation and creation, infrastructure investment, energy efficiency and science, assistance to the unemployed, and State and local fiscal stabilization, for fiscal year ending September 30, 2009, and for other purposes.</title>
+	</titles>
+	<sponsor id="400300"/>
+	<cosponsors>
+		<cosponsor id="400409" joined="2009-01-26"/>
+		<cosponsor id="400140" joined="2009-01-26"/>
+		<cosponsor id="400386" joined="2009-01-26"/>
+		<cosponsor id="400416" joined="2009-01-26"/>
+		<cosponsor id="400425" joined="2009-01-26"/>
+		<cosponsor id="400333" joined="2009-01-26"/>
+		<cosponsor id="400155" joined="2009-01-26"/>
+		<cosponsor id="400299" joined="2009-01-26"/>
+		<cosponsor id="400278" joined="2009-01-26"/>
+	</cosponsors>
+	<actions>
+		<action date="1232946000" datetime="2009-01-26"><text>Referred to the Committee on Appropriations, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text></action>
+		<action date="1232946000" datetime="2009-01-26"><text>Referred to House Appropriations</text></action>
+		<action date="1232946000" datetime="2009-01-26"><text>Referred to House Budget</text></action>
+		<action date="1233017820" datetime="2009-01-26T20:57:00-05:00"><text>Rules Committee Resolution H. Res. 88 Reported to House. Rule provides for consideration of H.R. 1 with 3 hours and 30 minutes of general debate. All points of order against consideration of the bill except those arising under clause 9 or 10 of rule XXI, are waived. After general debate, the Committee shall rise without motion and no further consideration of the bill shall occur except pursuant to a subsequent order of the House.</text></action>
+		<action date="1233082680" datetime="2009-01-27T14:58:00-05:00"><text>Rule H. Res. 88 passed House.</text></action>
+		<action date="1233087960" datetime="2009-01-27T16:26:00-05:00"><text>QUESTION OF CONSIDERATION - Pending any declaration of the House into the Committee of the Whole pursuant to H. Res. 88 for consideration of H.R. 1--which contains an emergency designation for purposes of pay-as-you-go principles--the Chair announced that it must put the question of consideration of H.R. 1 under clause 10(c)(3)of rule 21.</text></action>
+		<action date="1233088920" datetime="2009-01-27T16:42:00-05:00"><text>On question of consideration of bill Agreed to by recorded vote: 224 - 199 (Roll no. 38).</text><reference label="consideration" ref="CR H556-557"/></action>
+		<action date="1233088920" datetime="2009-01-27T16:42:00-05:00"><text>Considered under the provisions of rule H. Res. 88.</text><reference label="consideration" ref="CR H557-583"/></action>
+		<action date="1233088920" datetime="2009-01-27T16:42:00-05:00"><text>Rule provides for consideration of H.R. 1 with 3 hours and 30 minutes of general debate. All points of order against consideration of the bill except those arising under clause 9 or 10 of rule XXI, are waived. After general debate, the Committee shall rise without motion and no further consideration of the bill shall occur except pursuant to a subsequent order of the House.</text></action>
+		<vote date="1233180660" how="roll" roll="46" datetime="2009-01-28T18:11:00-05:00" where="h" type="vote" result="pass" ><text>On passage Passed by the Yeas and Nays: 244 - 188 (Roll no. 46).</text><reference label="text" ref="CR H642-711"/></vote>
+		<action date="1233180720" datetime="2009-01-28T18:12:00-05:00"><text>The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 1.</text></action>
+		<action date="1233205200" datetime="2009-01-29"><text>Received in the Senate.</text></action>
+	</actions>
+	<committees>
+		<committee name="House Appropriations" subcommittee="" activity="Referral" />
+		<committee name="House Budget" subcommittee="" activity="Referral" />
+	</committees>
+	<relatedbills>
+		<bill relation="rule" session="111" type="hr" number="88" />
+		<bill relation="rule" session="111" type="hr" number="92" />
+		<bill relation="unknown" session="111" type="h" number="598" />
+		<bill relation="unknown" session="111" type="h" number="629" />
+		<bill relation="unknown" session="111" type="h" number="679" />
+		<bill relation="unknown" session="111" type="h" number="679" />
+		<bill relation="unknown" session="111" type="s" number="336" />
+		<bill relation="unknown" session="111" type="s" number="336" />
+	</relatedbills>
+	<subjects>
+		<term name="Economics and public finance"/>
+		<term name="Administrative law and regulatory procedures"/>
+		<term name="Advisory bodies"/>
+		<term name="Aging"/>
+		<term name="Agricultural conservation and pollution"/>
+		<term name="Agricultural research"/>
+		<term name="Air quality"/>
+		<term name="Alternative and renewable resources"/>
+		<term name="Appropriations"/>
+		<term name="Aviation and airports"/>
+	</subjects>
+	<amendments>
+		<amendment number="h12"/>
+		<amendment number="h13"/>
+		<amendment number="h14"/>
+		<amendment number="h15"/>
+		<amendment number="h16"/>
+		<amendment number="h17"/>
+		<amendment number="h18"/>
+		<amendment number="h19"/>
+		<amendment number="h20"/>
+		<amendment number="h21"/>
+		<amendment number="h22"/>
+		<amendment number="s98"/>
+	</amendments>
+	<summary>
+	
+	</summary>
+</bill>

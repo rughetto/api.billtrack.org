@@ -1,0 +1,33 @@
+<%= image_tag @politician.small_photo_path, :class => 'left headshot' %>
+<h2>
+  <%= @politician.constituency %>
+</h2>
+
+<h3 class="first">Contact Information:</h3>
+<% unless @politician.website.blank? %>
+<p>
+  <%= link_to 'website', @politician.website %>
+</p>
+<% end -%>
+<p>
+  <%= link_to 'contact web form', @politician.webform %>
+</p>
+<p>
+  <b>phone</b>: 
+  <%= @politician.phone %>
+</p>
+<% unless @politician.email.blank? -%>
+<p>
+  <b>email</b>: 
+  <%= @politician.email %>
+</p>
+<% end -%>
+<h3>Social Media:</h3>
+<p>
+  <%= link_to 'Congresspedia', @politician.congresspedia_url %>
+</p>
+<% unless @politician.youtube_url.blank? -%>
+<p>
+  <%= link_to 'You Tube', @politician.youtube_url %>
+</p>
+<% end -%>

@@ -1,0 +1,29 @@
+development: &defaults
+  adapter:  mysql
+  database: billtrack_data
+  username: root
+  password: 
+  host: localhost
+  socket: "/tmp/mysql.sock"
+ 
+test:
+  <<:   *defaults
+  database: billtrack_data_test
+ 
+production:
+  <<:   *defaults
+  
+  
+  
+# API data  
+member_development:
+  <<:   *defaults
+  database: billtrack_member
+  
+member_test:
+  <<:   *defaults
+  database: billtrack_member_test
+
+member_production:
+  <<:   *defaults
+  database: billtrack_member
