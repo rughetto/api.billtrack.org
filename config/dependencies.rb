@@ -17,7 +17,7 @@ dependency "merb-gen",                  merb_gems_version
 
 dependency "activesupport",             ar_gems_version
 dependency "activerecord",              ar_gems_version
-dependency "merb_activerecord"
+dependency "merb_activerecord",         '< 1.0' 
 
 dependency "RedCloth"
 dependency "rughetto-merb_paperclip",             :require_as => "merb_paperclip"
